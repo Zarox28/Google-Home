@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "google-home-push": "^1.2.1",
+    "terminal-kit": "^3.0.0"
+  },
+  "name": "google-home",
+  "version": "1.0.0",
+  "description": "A simple google home speaker controller",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Zarox28"
+}
