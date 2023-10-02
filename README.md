@@ -50,5 +50,8 @@ To contribute to this project, please see [CONTRIBUTING](CONTRIBUTING.md).
 ## Changelog
 See [CHANGELOG](CHANGELOG.md) for changes.
 
+## License
+This project is licensed under the AGPL-3.0 License. See [LICENSE](LICENSE) for more information.
+
 ## Authors
 - [@Zarox28](https://github.com/Zarox28)
