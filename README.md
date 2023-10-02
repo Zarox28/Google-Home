@@ -6,6 +6,19 @@
 
 ---
 
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+    - [Clone](#clone)
+    - [Setup](#setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
+- [License](#license)
+- [Authors](#authors)
+
 ## About
 
 `Google Home Troll` is a Google Assistant application that allows you to troll your friends by controlling their Google Home devices.
